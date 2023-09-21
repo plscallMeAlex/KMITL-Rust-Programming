@@ -1,0 +1,1 @@
+C:\Users\baile\OneDrive\CodingSpace\Rust\Week8\HW8\target\debug\q2_2.exe: C:\Users\baile\OneDrive\CodingSpace\Rust\Week8\HW8\src\bin\q2_2.rs C:\Users\baile\OneDrive\CodingSpace\Rust\Week8\HW8\src\lib.rs
