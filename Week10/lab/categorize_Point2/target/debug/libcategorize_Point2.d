@@ -1,0 +1,1 @@
+C:\Users\baile\Documents\Coding_spaces\Rust\ Programming\Week10\lab\categorize_Point2\target\debug\libcategorize_Point2.rlib: C:\Users\baile\Documents\Coding_spaces\Rust\ Programming\Week10\lab\categorize_Point2\src\lib.rs
