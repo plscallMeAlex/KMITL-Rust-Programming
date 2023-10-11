@@ -1,0 +1,20 @@
+fn swap_nibbles(x: u8) -> u8 {
+    ((x%16)*16) +(x/16) 
+}
+
+fn swap_nibbles(b:u8) -> u8{ ((b& 0x0F) << 4) | (b >> 4)}
+
+>> use for shipping
+
+bitwise
+
+fn swap_nibbles_bytes(v: &[u8]) -> Vec<u8> {
+    v.iter().copied().map(|b| swap_nibbles(b)).collect()
+}
+
+
+fn main() {
+    let x = 0x54
+    let y = swap_nibbles(x)
+    print!("{:02x}", y);
+}
