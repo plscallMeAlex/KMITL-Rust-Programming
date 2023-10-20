@@ -1,0 +1,1 @@
+C:\Users\baile\Documents\Coding_spaces\Rust\ Programming\Weeks12\lab\fortuneR\target\debug\fortuneR.exe: C:\Users\baile\Documents\Coding_spaces\Rust\ Programming\Weeks12\lab\fortuneR\src\lib.rs C:\Users\baile\Documents\Coding_spaces\Rust\ Programming\Weeks12\lab\fortuneR\src\main.rs
